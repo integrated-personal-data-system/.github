@@ -17,7 +17,7 @@ of Self-Sovereign Identity (SSI).
 
 <br/>
 
-## Repo Structures
+## Project Structures
 
 | Overall | SSI Focused | Organization Focused |
 | --------| -------------| -------------------- |
