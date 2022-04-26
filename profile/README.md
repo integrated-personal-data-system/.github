@@ -24,6 +24,7 @@ Organization-Focused
 SSI-Focused
 :This SSI-focused project will run in parallel to the Organization-Focused project. It will develop and implement a series of prototype 'decentralized' Blockchain networks, with each version better meeting the needs of more organizations. We expect the Organization-Focused project to trade off SSI principles to achieved needed security. This SSI-Focus project will take longer, but will eventually meet those same organizational requirements, but while also meeting the principles of SSI. Interested collaborators should join this project or contact james.schoening@ieee.org.
 
+<br/>
 
 | Overall | SSI Focused | Organization Focused |
 | --------| -------------| -------------------- |
