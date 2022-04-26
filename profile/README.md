@@ -15,11 +15,6 @@ of Self-Sovereign Identity (SSI).
 
 <br/>
 
-
-**SSI Focused**
-: This SSI-focused project will run in parallel to the Organization-Focused project. It will develop and implement a series of prototype 'decentralized' Blockchain networks, with each better meeting the needs of more organization.  We expect the Organization-Focused project to trade off SSI principles to achieved needed security and other requirements.  This SSI-Focus project will take longer, but will eventually meet those same organizational requirements, but while also meeting the principles of SSI.
-
-
 ## Repo Structures
 
 | SSI Focused | Organization Focused |
