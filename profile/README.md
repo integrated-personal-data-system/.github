@@ -21,4 +21,5 @@ of Self-Sovereign Identity (SSI).
 
 | SSI Focused | Organization Focused |
 | ----------- | -------------------- |
-| documents   | BedRock              |
+| documents   | bbu-gf               |
+|             | uni-registrar-driver-did-bbu|
