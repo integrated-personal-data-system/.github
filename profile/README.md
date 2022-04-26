@@ -31,7 +31,8 @@ SSI-Focused
 | [Overall-Project-Documents](https://github.com/I-AM-project/Overall-Project-Documents)|   | [bbu-gf](https://github.com/I-AM-project/bbu-gf) |
 |         |              | [uni-registrar-driver-did-bbu](https://github.com/I-AM-project/uni-registrar-driver-did-bbu)|
 |         |              | [Indy](https://github.com/I-AM-project/indy-sdk) |
-|         |              | [aries-cloudagent-python](https://github.com/I-AM-project/aries-cloudagent-python)  |                                           
+|         |              | [aries-cloudagent-python](https://github.com/I-AM-project/aries-cloudagent-python)  |        
+|         |              | [my-data-ontology](https://github.com/I-AM-project/my-data-ontology)|
 
 
 ## Teams
