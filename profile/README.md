@@ -21,5 +21,5 @@ of Self-Sovereign Identity (SSI).
 
 | SSI Focused | Organization Focused |
 | ----------- | -------------------- |
-| documents   | [bbu-gf](https://github.com/I-AM-project/bbu-gf)               |
+| [documents](https://github.com/I-AM-project/documents)   | [bbu-gf](https://github.com/I-AM-project/bbu-gf)               |
 |             | [uni-registrar-driver-did-bbu](https://github.com/I-AM-project/uni-registrar-driver-did-bbu)|
