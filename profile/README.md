@@ -1,4 +1,6 @@
 # I-AM-Project 
+*Welcome to the I-AM Project Orgnaization*
+---
 
 ## Mission Statment 
 > The mission of this open source project is to develop a verifiable data registry
