@@ -29,3 +29,8 @@ SSI-Focused
 | --------| -------------| -------------------- |
 | [documents](https://github.com/I-AM-project/documents)|   | [bbu-gf](https://github.com/I-AM-project/bbu-gf)               |
 |          |   | [uni-registrar-driver-did-bbu](https://github.com/I-AM-project/uni-registrar-driver-did-bbu)|
+
+
+
+## Teams
+[SSI Focused Team](https://github.com/orgs/I-AM-project/teams/ssi-focused)
