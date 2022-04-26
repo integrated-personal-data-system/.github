@@ -1,5 +1,5 @@
 # I-AM-Project 
-*Welcome to the I-AM Project*
+*Welcome to the IAM Project*
 ---
 
 ## Mission Statment 
