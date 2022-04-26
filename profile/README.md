@@ -36,4 +36,4 @@ SSI-Focused
 
 ## Teams
 > Join a team to continue the discussion and contribute to a project. 
-[SSI Focused Team](https://github.com/orgs/I-AM-project/teams/ssi-focused)
+1. [SSI Focused Team](https://github.com/orgs/I-AM-project/teams/ssi-focused)
