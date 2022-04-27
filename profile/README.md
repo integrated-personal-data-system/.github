@@ -26,7 +26,7 @@ SSI-Focused
 
 <br/>
 
-| Overall | SSI Focused | Organization Focused |
+| Overall | SSI Focused Team| Organization Focused Team |
 | --------| -------------| -------------------- |
 | [Overall-Project-Documents](https://github.com/I-AM-project/Overall-Project-Documents)|   | [bbu-gf](https://github.com/I-AM-project/bbu-gf) |
 |         |              | [uni-registrar-driver-did-bbu](https://github.com/I-AM-project/uni-registrar-driver-did-bbu)|
