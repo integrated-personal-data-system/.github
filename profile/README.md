@@ -21,10 +21,10 @@ SSI-Focused Team
 
 <br/>
 
-| Overall | SSI-focused Team| Organization-focused Team |
-| --------| -------------| -------------------- |
-| [Overall-Project-Documents](https://github.com/I-AM-project/Overall-Project-Documents)| [Team Page](https://github.com/orgs/I-AM-project/teams/ssi-focused)  | [bbu-gf](https://github.com/I-AM-project/bbu-gf) |
-|         |              | [uni-registrar-driver-did-bbu](https://github.com/I-AM-project/uni-registrar-driver-did-bbu)|
-|         |              | [Indy](https://github.com/I-AM-project/indy-sdk) |
-|         |              | [aries-cloudagent-python](https://github.com/I-AM-project/aries-cloudagent-python)  |        
-|         |              | [my-data-ontology](https://github.com/I-AM-project/my-data-ontology)|
+| SSI-focused Team| Organization-focused Team |
+| -------------| -------------------- |
+| [Team Page](https://github.com/orgs/I-AM-project/teams/ssi-focused)  | [bbu-gf](https://github.com/I-AM-project/bbu-gf) |
+|              | [uni-registrar-driver-did-bbu](https://github.com/I-AM-project/uni-registrar-driver-did-bbu)|
+|              | [Indy](https://github.com/I-AM-project/indy-sdk) |
+|              | [aries-cloudagent-python](https://github.com/I-AM-project/aries-cloudagent-python)  |        
+|              | [my-data-ontology](https://github.com/I-AM-project/my-data-ontology)|
