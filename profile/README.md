@@ -23,7 +23,7 @@ SSI-Focused Team
 
 |  Organization-focused Team | SSI-focused Team |
 | -------------------- | -------------|
-|[Team Page](https://github.com/orgs/I-AM-project/teams/ssi-focused)  |[Team Page](https://github.com/orgs/I-AM-project/teams/ssi-focused)  |
+|[Team Page](https://github.com/orgs/I-AM-project/teams/organization-focused-team)  |[Team Page](https://github.com/orgs/I-AM-project/teams/ssi-focused)  |
 | [bbu-gf](https://github.com/I-AM-project/bbu-gf) |  |
 | [uni-registrar-driver-did-bbu](https://github.com/I-AM-project/uni-registrar-driver-did-bbu)|              |
 |  [Indy](https://github.com/I-AM-project/indy-sdk) |             |
