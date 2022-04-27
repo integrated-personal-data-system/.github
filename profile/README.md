@@ -11,10 +11,8 @@ frameworks, which organizations can further refine. All components will align to
 support organizational Zero Trust objectives and enable the developing principles
 of Self-Sovereign Identity (SSI).
 
-####[See IAM-Project Documents Repository] (https://github.com/I-AM-project/Overall-Project-Documents)
-## Team Structure
-Overall IAM Project 
-: See general project documents. 
+#### [See IAM-Project Documents Repository](https://github.com/I-AM-project/Overall-Project-Documents)
+## IAM-Project Teams 
 
 Organization-focused Team
 : This organizational Focused project will utilize the BedRock BlockChain to create an Identity layer for security. 
