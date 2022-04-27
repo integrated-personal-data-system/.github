@@ -18,11 +18,14 @@ of Self-Sovereign Identity (SSI).
 <br/>
 
 ## Overall Project and Team Structure
+Overall IAM Project 
+: See general project documents. 
+
 Organization-focused Team
 : This organizational Focused project will utilize the BedRock BlockChain to create an Identity layer for security. 
 
 SSI-Focused
-: This SSI-focused project will run in parallel to the Organization-Focused project. It will develop and implement a series of prototype 'decentralized' Blockchain networks, with each version better meeting the needs of more organizations. We expect the Organization-Focused project to trade off SSI principles to achieved needed security. This SSI-Focus project will take longer, but will eventually meet those same organizational requirements, but while also meeting the principles of SSI. Interested collaborators should join this project or join the [SSI Focused Team](https://github.com/orgs/I-AM-project/teams/ssi-focused).
+: This SSI-focused project will run in parallel to the Organization-Focused project. It will develop and implement a series of prototype 'decentralized' Blockchain networks, with each version better meeting the needs of more organizations. We expect the Organization-Focused project to trade off SSI principles to achieved needed security. This SSI-Focus project will take longer, but will eventually meet those same organizational requirements, but while also meeting the principles of SSI. Interested collaborators should join this project or join the [SSI-focused Team](https://github.com/orgs/I-AM-project/teams/ssi-focused).
 
 <br/>
 
