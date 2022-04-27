@@ -1,5 +1,5 @@
 # Mission Statment 
-: From Linux Foundation IAM Project charter:
+From Linux Foundation IAM Project charter:
 > "The mission of this open source project is to develop a verifiable data registry
 solution that organizations can deploy, which will provide their individuals
 (employees, customers, citizens, etc.) with decentralized identity using W3C
@@ -28,8 +28,3 @@ SSI-Focused Team
 |         |              | [Indy](https://github.com/I-AM-project/indy-sdk) |
 |         |              | [aries-cloudagent-python](https://github.com/I-AM-project/aries-cloudagent-python)  |        
 |         |              | [my-data-ontology](https://github.com/I-AM-project/my-data-ontology)|
-
-
-#### Teams
-> Join a team to continue the discussion and contribute to a project. 
-1. [SSI Focused Team](https://github.com/orgs/I-AM-project/teams/ssi-focused)
