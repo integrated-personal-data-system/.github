@@ -11,7 +11,7 @@ frameworks, which organizations can further refine. All components will align to
 support organizational Zero Trust objectives and enable the developing principles
 of Self-Sovereign Identity (SSI).
 
-<br/>
+
 
 ## Overall Project and Team Structure
 Overall IAM Project 
