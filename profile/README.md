@@ -14,7 +14,7 @@ of Self-Sovereign Identity (SSI)."
 
 #### [See IAM-Project Documents Repository](https://github.com/I-AM-project/Overall-Project-Documents)
 ## IAM-Project Teams 
-Organization-focused Team: This team will develop generic solutions for organizations (that need high security), which will include SSI capabilities for their members (employees, customers, citizens). Join [here](https://github.com/orgs/I-AM-project/teams/organization-focused-team) 
+Organization-focused Team: This team will develop generic solutions for organizations (that need high security), which will include SSI capabilities for their members (employees, customers, citizens). Join [here.](https://github.com/orgs/I-AM-project/teams/organization-focused-team) 
 
 SSI-Focused Team
 : This team (of SSI-advocates) will help the above team fulfill as many principles of SSI as possible. It will also explore, develop, test, and pilot alternate solutions that meet all principles of SSI, as well as assess those developed by others.  Join [here.](https://github.com/orgs/I-AM-project/teams/ssi-focused).
