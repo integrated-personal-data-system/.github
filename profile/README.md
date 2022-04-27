@@ -10,8 +10,8 @@ agent, and a cloud agent designed to serve as a secure Personal Data System
 frameworks, which organizations can further refine. All components will align to
 support organizational Zero Trust objectives and enable the developing principles
 of Self-Sovereign Identity (SSI).
-## [IAM Project Documents Repo] (https://github.com/I-AM-project/Overall-Project-Documents)
-## Overall Project and Team Structure
+[See IAM-Project Documents Repository] (https://github.com/I-AM-project/Overall-Project-Documents)
+## Team Structure
 Overall IAM Project 
 : See general project documents. 
 
