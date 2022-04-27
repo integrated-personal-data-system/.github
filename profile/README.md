@@ -17,8 +17,8 @@ of Self-Sovereign Identity (SSI).
 
 <br/>
 
-## Project Structures
-Organization-Focused
+## Overall Project and Team Structure
+Organization-focused Team
 : This organizational Focused project will utilize the BedRock BlockChain to create an Identity layer for security. 
 
 SSI-Focused
