@@ -1,6 +1,6 @@
 # Mission Statment 
-:From Linux Foundation IAM Project charter
-> The mission of this open source project is to develop a verifiable data registry
+: From Linux Foundation IAM Project charter:
+> "The mission of this open source project is to develop a verifiable data registry
 solution that organizations can deploy, which will provide their individuals
 (employees, customers, citizens, etc.) with decentralized identity using W3C
 Verifiable Credentials (VCs) and Decentralized Identifiers (DIDs),while providing
@@ -10,13 +10,11 @@ agent, and a cloud agent designed to serve as a secure Personal Data System
 (PDS). This project will develop and publish one or more governance
 frameworks, which organizations can further refine. All components will align to
 support organizational Zero Trust objectives and enable the developing principles
-of Self-Sovereign Identity (SSI).
+of Self-Sovereign Identity (SSI)."
 
 #### [See IAM-Project Documents Repository](https://github.com/I-AM-project/Overall-Project-Documents)
 ## IAM-Project Teams 
-
-Organization-focused Team
-: This team will develop generic solutions for organizations (that need high security), which will include SSI capabilities for their members (employees, customers, citizens).  
+Organization-focused Team: This team will develop generic solutions for organizations (that need high security), which will include SSI capabilities for their members (employees, customers, citizens).  
 
 SSI-Focused Team
 : This team (of SSI-advocates) will help the above team fulfill as many principles of SSI as possible. It will also explore, develop, test, and pilot alternate solutions that meet all principles of SSI, as well as assess those developed by others.  Join us at [SSI-focused Team](https://github.com/orgs/I-AM-project/teams/ssi-focused).
