@@ -15,10 +15,10 @@ of Self-Sovereign Identity (SSI).
 ## IAM-Project Teams 
 
 Organization-focused Team
-: This team will develop a generic solutions for organizations (that need high security), which will include SSI capabilities for organizational members (e.g. employees, customers, citizens, etc.).  
+: This team will develop generic solutions for organizations (that need high security), which will include SSI capabilities for their members (employees, customers, citizens).  
 
 SSI-Focused Team
-: This team (of SSI-advocates) will help the above team fulfill as many principles of SSI as possible.  It will also develop and implement a series of prototype 'decentralized' Blockchain networks, with each version better meeting the needs of more organizations. We expect the Organization-Focused project to trade off SSI principles to achieved needed security. This SSI-Focus project will take longer, but will eventually meet those same organizational requirements, but while also meeting the principles of SSI. Interested collaborators should join this project or join the [SSI-focused Team](https://github.com/orgs/I-AM-project/teams/ssi-focused).
+: This team (of SSI-advocates) will help the above team fulfill as many principles of SSI as possible. It will also explore, develop, test, and pilot alternate solutions that meet all principles of SSI, as well as assess those developed by others.  Join us at [SSI-focused Team](https://github.com/orgs/I-AM-project/teams/ssi-focused).
 
 <br/>
 
