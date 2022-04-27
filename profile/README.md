@@ -1,8 +1,4 @@
-# I-AM-Project 
-*Welcome to the IAM Project*
----
-
-## Mission Statment (from Linux Foundation charter for this project)
+## Mission Statment (from Linux Foundation IAM Project charter)
 > The mission of this open source project is to develop a verifiable data registry
 solution that organizations can deploy, which will provide their individuals
 (employees, customers, citizens, etc.) with decentralized identity using W3C
