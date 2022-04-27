@@ -32,6 +32,6 @@ SSI-Focused
 |         |              | [my-data-ontology](https://github.com/I-AM-project/my-data-ontology)|
 
 
-## Teams
+### Teams
 > Join a team to continue the discussion and contribute to a project. 
 1. [SSI Focused Team](https://github.com/orgs/I-AM-project/teams/ssi-focused)
