@@ -31,4 +31,4 @@ SSI-Focused Team
 |  [my-data-ontology](https://github.com/I-AM-project/my-data-ontology)|             |
 
 ## How We Relate (to other initiatives)
-Please visit (and CONTRIBUTE to) our IAM Differentiation Matrix to help us understand how our work compares with others.  
+Please visit (and CONTRIBUTE to) our [IAM Differentiation Matrix](https://docs.google.com/spreadsheets/d/160XP7o7k9FFyaFKeGaJFUj2zm7mz8xYUQI1lAVarrC0) to help us understand how our work compares with others.  
