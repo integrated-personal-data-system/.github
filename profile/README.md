@@ -17,13 +17,13 @@ of Self-Sovereign Identity (SSI)."
 Organization-focused Team: This team will develop generic solutions for organizations (that need high security), which will include SSI capabilities for their members (employees, customers, citizens). Join [here.](https://github.com/orgs/I-AM-project/teams/organization-focused-team) 
 
 SSI-Focused Team
-: This team (of SSI-advocates) will help the above team fulfill as many principles of SSI as possible. It will also explore, develop, test, and pilot alternate solutions that meet all principles of SSI, as well as assess those developed by others.  Join [here.](https://github.com/orgs/I-AM-project/teams/ssi-focused).
+: This team (of SSI-advocates) will help the above team fulfill as many principles of SSI as possible. It will also explore, develop, test, and pilot alternate solutions that meet all principles of SSI, as well as assess those developed by others.  Join [here.](https://github.com/orgs/I-AM-project/teams/ssi-focused-team).
 
 <br/>
 
 |  Organization-focused Team | SSI-focused Team |
 | -------------------- | -------------|
-|[Team Page](https://github.com/orgs/I-AM-project/teams/organization-focused-team)  |[Team Page](https://github.com/orgs/I-AM-project/teams/ssi-focused)  |
+|[Team Page](https://github.com/orgs/I-AM-project/teams/organization-focused-team)  |[Team Page](https://github.com/orgs/I-AM-project/teams/ssi-focused-team)  |
 | [bbu-gf (Org Governance)](https://github.com/I-AM-project/bbu-gf) |  |
 | [uni-registrar-driver-did-bbu](https://github.com/I-AM-project/uni-registrar-driver-did-bbu)|              |
 |  [Indy](https://github.com/I-AM-project/indy-sdk) |             |
