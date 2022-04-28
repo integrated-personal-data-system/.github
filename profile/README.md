@@ -29,3 +29,6 @@ SSI-Focused Team
 |  [Indy](https://github.com/I-AM-project/indy-sdk) |             |
 |  [aries-cloudagent-python](https://github.com/I-AM-project/aries-cloudagent-python)  |               |      
 |  [my-data-ontology](https://github.com/I-AM-project/my-data-ontology)|             |
+
+## How We Relate (to other initiatives)
+Please visit (and CONTRIBUTE to) our IAM Differentiation Matrix to help us understand how our work compares with others.  
