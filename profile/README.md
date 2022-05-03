@@ -1,4 +1,4 @@
-# Mission Statment 
+# Mission Statement 
 From Linux Foundation IAM Project charter:
 > "The mission of this open source project is to develop a verifiable data registry
 solution that organizations can deploy, which will provide their individuals
