@@ -13,7 +13,7 @@ support organizational Zero Trust objectives and enable the developing principle
 of Self-Sovereign Identity (SSI)."  [See IAM-Project Documents Repository](https://github.com/I-AM-project/Overall-Project-Documents)
 ## How anyone can join this project:  
 1. [Create a free Github account](https://github.com) then return to this page.
-2. Email james.schoening@ieee.org with your Github user name and we'll grant you access help get involved.     
+2. Email james.schoening@ieee.org with your Github user name and we'll grant you access and help get involved.     
 
 ## IAM-Project Teams 
 Organization-focused Team: This team will develop generic solutions for organizations (that need high security), which will include SSI capabilities for their members (employees, customers, citizens). Join [here.](https://github.com/orgs/I-AM-project/teams/organization-focused-team) 
