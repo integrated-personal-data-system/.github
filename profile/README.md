@@ -12,7 +12,7 @@ frameworks, which organizations can further refine. All components will align to
 support organizational Zero Trust objectives and enable the developing principles
 of Self-Sovereign Identity (SSI)."  [See IAM-Project Documents Repository](https://github.com/I-AM-project/Overall-Project-Documents)
 ## How anyone can join this project:  
-1. [Create a free Github account](https://github) then return to this page.
+1. [Create a free Github account](https://github.com) then return to this page.
 2. Email james.schoening@ieee.org with your Github user name (or email address) and you will be granted access within a day.   
 
 ## IAM-Project Teams 
