@@ -11,9 +11,14 @@ agent, and a cloud agent designed to serve as a secure Personal Data System
 frameworks, which organizations can further refine. All components will align to
 support organizational Zero Trust objectives and enable the developing principles
 of Self-Sovereign Identity (SSI)."  [See IAM-Project Documents Repository](https://github.com/I-AM-project/Overall-Project-Documents)
+
 ## How anyone can join this project:  
 1. [Create a free Github account](https://github.com) then return to this page.
 2. Email james.schoening@ieee.org with your Github user name and we'll grant you access and help you get involved.     
+
+## Tasks for Volunteers
+> Once you join a team, we will designate tasks accordingly. Each task will have a reporter, assignee, status, and a link to the deliverable. 
+[View List](https://github.com/I-AM-project/tasks-for-volunteers)
 
 ## IAM-Project Teams 
 Organization-focused Team: This team will develop generic solutions for organizations (that need high security), which will include SSI capabilities for their members (employees, customers, citizens). 
