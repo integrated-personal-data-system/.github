@@ -23,7 +23,7 @@ of Self-Sovereign Identity (SSI)."  [See IAM-Project Documents Repository](https
 ## IAM-Project Teams 
 Organization-focused Team: This team will develop generic solutions for organizations (that need high security), which will include SSI capabilities for their members (employees, customers, citizens). 
 
-SSI-Focused Team: This team (of SSI-advocates) will develop, test, and deploy an SSI-optimized blockchain and digital wallet. Deployment will be in collaboration with an external organization.  The first goal is for a solution good enough for organizations needing limited security, and then we'll work on higher security versions.   If you are an advocate for self-sovergn identity, personal data control, or online privacy, please join this team by emailing james.schoening@ieee.org.  
+SSI-Focused Team: This team (of SSI-advocates) will develop, test, and deploy an SSI-optimized solution. Deployment will be in collaboration with an external organization.  The first goal is for a solution good enough for organizations needing only limited security, and then we'll work on higher security versions.   If you are an advocate for self-sovergn identity, personal data control, or online privacy, please join this team by emailing james.schoening@ieee.org.  
 
 <br/>
 
