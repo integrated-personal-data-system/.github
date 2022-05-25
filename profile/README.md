@@ -10,9 +10,9 @@
 For each Goal, see our [matrix] for Objectives and tasks YOU can help us with.   
 <br/>
 
-|  Organization-focused Team | SSI-focused Team |
-| -------------------- | -------------|
-|[Team Page](https://github.com/orgs/I-AM-project/teams/organization-focused-team)  |[Team Page](https://github.com/orgs/I-AM-project/teams/ssi-focused-team)  |
+|  | Objective-1 | Objective-2 | Objective-3 | Objective-4 | Objective-5 | Objective-6 |
+| -------------------- | -------------| ----------|  ----------| ----------| ----------| ----------|
+| |[Bedrock: Conduct risk assessment and approval for limited operation  |
 | [bbu-gf (Org Governance)](https://github.com/I-AM-project/bbu-gf) | [Keri-resources](https://github.com/I-AM-project/keri-resources) |
 | [uni-registrar-driver-did-bbu](https://github.com/I-AM-project/uni-registrar-driver-did-bbu)|[Aries Storage](https://github.com/I-AM-project/Aries-storage)             |
 |  [Indy](https://github.com/I-AM-project/indy-sdk) |             |
