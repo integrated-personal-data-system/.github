@@ -1,13 +1,6 @@
 ### This is a Linux Foundation Project
 # Goals and Objectives (Find your passion, join, and help!)
-1. Goal-1: Organizations achieve goals of Zero Trust. See [Objectives](), [Repo](https://github.com/I-AM-project/bbu-gf)
-2. Goal-2: Individuals collect and share credentials and data, privately. See [Objectives](), [Repo]() 
-3. Goal-3: Organizations help members establish and govern their digital lives.
-4. Goal-4: Individuals accept, integrate, and use data from vendors.
-5. Goal-5: Vendors gain new customers from individual early adopters.
-6. Goal-6: Governments pass data privacy laws because enough voters call for them. 
 
-For each Goal, see our [matrix] for Objectives and tasks YOU can help us with.   
 <br/>
 
 |  | Objective-1: Bedrock: Pilot org conducts risk assessment. [Repo]  | Objective-2 | Objective-3 | Objective-4 | Objective-5 | Objective-6 |
@@ -15,8 +8,9 @@ For each Goal, see our [matrix] for Objectives and tasks YOU can help us with.
 | Goal-1: Organizations achieve goals of Zero Trust | Primary | Supporting |
 | Goal-2: Individuals collect and share credentials and data, privately. |        |
 |  Goal-3: Organizations help members establish and govern their digital lives. |             |
-|  [aries-cloudagent-python](https://github.com/I-AM-project/aries-cloudagent-python)  |               |      
-|  [my-data-ontology](https://github.com/I-AM-project/my-data-ontology)|             |
+| Goal-4: Individuals accept, integrate, and use data from vendors.  |               |      
+|  Goal-5: Vendors gain new customers from individual early adopters|             |
+|Goal-6: Governments pass data privacy laws because enough voters call for them. |
 
 
 
