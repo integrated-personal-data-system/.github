@@ -1,7 +1,6 @@
 ### This is a Linux Foundation Project. 
 # Goals and Objectives (Find your passion, join, help!)
-
-<br/>
+Goals are various desired End-States.   Objectives are the next step in getting to each Goal.
 
 |  | Goal-1: Organizations achieve goals of Zero Trust. | Goal-2: Individuals collect and share credentials and data, privately.  |Goal-3: Organizations help members establish and govern their digital lives | Goal-4: Individuals accept, integrate, and use data from vendors. | Goal-5: Vendors gain new customers from individual early adopters | Goal-6: Governments pass data privacy laws because enough voters call for them. |
 | ----------------------------- | -------------| ----------|  ----------| ----------| ----------| ----------|
