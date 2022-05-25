@@ -13,8 +13,8 @@ For each Goal, see our [matrix] for Objectives and tasks YOU can help us with.
 |  | Objective-1: Bedrock: Pilot org conducts risk assessment. [Repo]  | Objective-2 | Objective-3 | Objective-4 | Objective-5 | Objective-6 |
 | -------------------- | -------------| ----------|  ----------| ----------| ----------| ----------|
 | Goal-1: Organizations achieve goals of Zero Trust | Primary | Supporting |
-| [uni-registrar-driver-did-bbu](https://github.com/I-AM-project/uni-registrar-driver-did-bbu)|[Aries Storage](https://github.com/I-AM-project/Aries-storage)             |
-|  [Indy](https://github.com/I-AM-project/indy-sdk) |             |
+| Goal-2: Individuals collect and share credentials and data, privately. |        |
+|  Goal-3: Organizations help members establish and govern their digital lives. |             |
 |  [aries-cloudagent-python](https://github.com/I-AM-project/aries-cloudagent-python)  |               |      
 |  [my-data-ontology](https://github.com/I-AM-project/my-data-ontology)|             |
 
