@@ -1,3 +1,12 @@
+# Goals and Objectives (Find your passion and contribute!)
+1. Goal-1: Organizations achieve goals of Zero Trust
+2. Goal-2: Individuals collect and share credentials and data
+Goal-3: Organizations help members establish and govern their digital lives
+Goal-4: Individuals accept, integrate, and use data from vendors.
+Goal-5: Vendors gain new customers from individual early adopters
+Goal-6: Governments pass data privacy laws because enough voters call for them
+View our matrix to see Objectives and tasks for each Goal.   
+
 # Mission Statement 
 From Linux Foundation IAM Project charter:
 > "The mission of this open source project is to develop a verifiable data registry
