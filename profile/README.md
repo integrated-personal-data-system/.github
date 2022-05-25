@@ -10,10 +10,9 @@
 For each Goal, see our [matrix] for Objectives and tasks YOU can help us with.   
 <br/>
 
-|  | Objective-1 | Objective-2 | Objective-3 | Objective-4 | Objective-5 | Objective-6 |
+|  | Objective-1: Bedrock: Pilot org conducts risk assessment. [Repo]  | Objective-2 | Objective-3 | Objective-4 | Objective-5 | Objective-6 |
 | -------------------- | -------------| ----------|  ----------| ----------| ----------| ----------|
-| |[Bedrock: Conduct risk assessment and approval for limited operation  |
-| [bbu-gf (Org Governance)](https://github.com/I-AM-project/bbu-gf) | [Keri-resources](https://github.com/I-AM-project/keri-resources) |
+| Goal-1: Organizations achieve goals of Zero Trust | Primary | Supporting |
 | [uni-registrar-driver-did-bbu](https://github.com/I-AM-project/uni-registrar-driver-did-bbu)|[Aries Storage](https://github.com/I-AM-project/Aries-storage)             |
 |  [Indy](https://github.com/I-AM-project/indy-sdk) |             |
 |  [aries-cloudagent-python](https://github.com/I-AM-project/aries-cloudagent-python)  |               |      
