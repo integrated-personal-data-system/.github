@@ -2,15 +2,15 @@
 # Goals and Objectives (Find your passion, join, help!)
 Goals are various desired End-States.   Objectives are the next step in getting to each Goal.
 
-|  | Goal-1: Organizations achieve goals of Zero Trust. | Goal-2: Individuals collect and share credentials and data, privately.  |Goal-3: Organizations help members establish and govern their digital lives | Goal-4: Individuals accept, integrate, and use data from vendors. | Goal-5: Vendors gain new customers from individual early adopters | Goal-6: Governments pass data privacy laws because enough voters call for them. |
-| ----------------------------- | -------------| ----------|  ----------| ----------| ----------| ----------|
+|  | Goal-1: Organizations achieve goals of Zero Trust. | Goal-2: Individuals collect and share credentials and data, privately.  |Goal-3: Organizations help members establish and govern their digital lives | Goal-4: Individuals accept, integrate, and use data from vendors. | Goal-5: Vendors gain new customers from individual early adopters |
+| ----------------------------- | -------------| ----------|  ----------| ----------| ----------|
 | Objective-1: Bedrock: Pilot org conducts risk assessment on Bedrock  [Repo](https://github.com/I-AM-project/bbu-gf) | Primary |  | Secondary |
 | Objective-2: Digital wallet w/ PDS: Create first version for developers to test and improve [Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)| Supporting | Primary |Primary | Supporting |
 | Objective-3: MyData Ontology: Refine and extend. [Repo](https://github.com/I-AM-project/my-data-ontology)   |    | Supporting |         |Primary |Primary |
 | Objective-4: KERI:   |               |  Primary |    
 | Objective-5: Recruit Developers to test and improve offerings. [Repo](https://github.com/I-AM-project/keri-resources)       |   |Primary |
 |Objective-6: Recruit members to recruit vendors ||||Primary |
-|Objective-7: Recruit early individual adopters (When ready)||Secondary |||Primary | Primary |
+|Objective-7: Recruit early individual adopters (When ready)||Secondary |||Primary |
 
 
 
