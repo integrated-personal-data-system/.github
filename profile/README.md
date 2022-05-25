@@ -1,5 +1,5 @@
 ### This is a Linux Foundation Project. 
-# Goals and Objectives (Find your passion, join, and help!)
+# Goals and Objectives (Find your passion, join, help!)
 
 <br/>
 
@@ -7,9 +7,9 @@
 | ----------------------------- | -------------| ----------|  ----------| ----------| ----------| ----------|
 | Objective-1: Bedrock: Pilot org conducts risk assessment on Bedrock  [Repo](https://github.com/I-AM-project/bbu-gf) | Primary |  | Secondary |
 | Objective-2: Digital wallet w/ PDS: Create first version for developers to test and improve [Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)| Supporting | Primary |Primary | Supporting |
-| Objective-3: MyData Ontology: Refine and extend   |    | Supporting |         |Primary |Primary |
+| Objective-3: MyData Ontology: Refine and extend. [Repo](https://github.com/I-AM-project/my-data-ontology)   |    | Supporting |         |Primary |Primary |
 | Objective-4: KERI:   |               |  Primary |    
-| Objective-5: Recruit Developers to test and improve offerings         |   |Primary |
+| Objective-5: Recruit Developers to test and improve offerings. [Repo](https://github.com/I-AM-project/keri-resources)       |   |Primary |
 |Objective-6: Recruit members to recruit vendors ||||Primary |
 |Objective-7: Recruit early individual adopters (When ready)||Secondary |||Primary | Primary |
 
