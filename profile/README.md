@@ -1,6 +1,8 @@
 ### This is a Linux Foundation Project. 
 # Goals and Objectives (Find your passion, join, help!)
-Goals are various desired End-States.   Objectives are the next step in getting to each Goal.
+'Goals' are various desired End-States.   'Objectives' are the next step in getting to each Goal. 'Primary = Main Objective for that Goal.
+Secondary = A valid (but not main) objective for that Goal
+Supporting = Provides value to Primary Objective
 
 |  | Goal-1: Organizations achieve goals of Zero Trust. | Goal-2: Individuals collect and share credentials and data, privately.  |Goal-3: Organizations help members establish and govern their digital lives | Goal-4: Individuals accept, integrate, and use data from vendors. | Goal-5: Vendors gain new customers from individual early adopters |
 | ----------------------------- | -------------| ----------|  ----------| ----------| ----------|
@@ -11,22 +13,6 @@ Goals are various desired End-States.   Objectives are the next step in getting 
 | Objective-5: Recruit Developers to test and improve offerings. [Repo](https://github.com/I-AM-project/keri-resources)       |   |Primary |
 |Objective-6: Recruit members to recruit vendors ||||Primary |
 |Objective-7: Recruit early individual adopters (When ready)||Secondary |||Primary |
-
-
-
-# Mission Statement 
-From Linux Foundation IAM Project charter:
-> "The mission of this open source project is to develop a verifiable data registry
-solution that organizations can deploy, which will provide their individuals
-(employees, customers, citizens, etc.) with decentralized identity using W3C
-Verifiable Credentials (VCs) and Decentralized Identifiers (DIDs),while providing
-the organization with greater security and other benefits. This is expected to
-include (for the individual or legal entity) an open source digital wallet, edge
-agent, and a cloud agent designed to serve as a secure Personal Data System
-(PDS). This project will develop and publish one or more governance
-frameworks, which organizations can further refine. All components will align to
-support organizational Zero Trust objectives and enable the developing principles
-of Self-Sovereign Identity (SSI)."  [See IAM-Project Documents Repository](https://github.com/I-AM-project/Overall-Project-Documents)
 
 ## How anyone can join this project:  
 1. [Create a free Github account](https://github.com) then return to this page.
