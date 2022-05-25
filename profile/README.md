@@ -1,11 +1,11 @@
 ### This is a Linux Foundation Project
 # Goals and Objectives (Find your passion, join, and help!)
-1. Goal-1: Organizations achieve goals of Zero Trust
-2. Goal-2: Individuals collect and share credentials and data, privately. 
-3. Goal-3: Organizations help members establish and govern their digital lives
+1. Goal-1: Organizations achieve goals of Zero Trust. See [Objectives](), [Repo](https://github.com/I-AM-project/bbu-gf)
+2. Goal-2: Individuals collect and share credentials and data, privately. See [Objectives](), [Repo]() 
+3. Goal-3: Organizations help members establish and govern their digital lives.
 4. Goal-4: Individuals accept, integrate, and use data from vendors.
-5. Goal-5: Vendors gain new customers from individual early adopters
-6. Goal-6: Governments pass data privacy laws because enough voters call for them
+5. Goal-5: Vendors gain new customers from individual early adopters.
+6. Goal-6: Governments pass data privacy laws because enough voters call for them. 
 
 For each Goal, see our [matrix] for Objectives and tasks YOU can help us with.   
 
