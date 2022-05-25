@@ -5,13 +5,13 @@
 
 |  | Goal-1: Organizations achieve goals of Zero Trust | Goal-2: Individuals collect and share credentials and data, privately.  |Goal-3: Organizations help members establish and govern their digital lives | Goal-4: Individuals accept, integrate, and use data from vendors. | Goal-5: Vendors gain new customers from individual early adopters | Goal-6: Governments pass data privacy laws because enough voters call for them. |
 | -------------------- | -------------| ----------|  ----------| ----------| ----------| ----------|
-| Objective-1: Bedrock: Pilot org conducts risk assessment on Bedrock [Repo] | Primary |  |
-| Objective-2: Digital wallet w/ PDS: Create first version for developers to test and improve [Tasks]| Supporting       |
-| Objective-3: MyData Ontology: Refine and extend   |             |
-| Objective-4: KERI:   |               |      
-| Objective-5: Recruit Developers to test and improve offerings            |
-|Objective-6: Recruit members to recruit vendors |
-|Objective-7: Recruit early individual adopters (When ready)||
+| Objective-1: Bedrock: Pilot org conducts risk assessment on Bedrock [Repo] | Primary |  | Secondary |
+| Objective-2: Digital wallet w/ PDS: Create first version for developers to test and improve [Tasks]| Supporting | Primary |Primary | Supporting |
+| Objective-3: MyData Ontology: Refine and extend   |    | Supporting |         |Primary |Primary |
+| Objective-4: KERI:   |               |  Primary |    
+| Objective-5: Recruit Developers to test and improve offerings         |   |Primary |
+|Objective-6: Recruit members to recruit vendors ||||Primary |
+|Objective-7: Recruit early individual adopters (When ready)||Secondary |||Primary | Primary |
 
 
 
