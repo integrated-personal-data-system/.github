@@ -12,7 +12,7 @@
 |Objective-6: Recruit members to recruit vendors ||||Primary |
 |Objective-7: Recruit early individual adopters (When ready)||Secondary |||Primary |
 
-Use-Case Goal-6: Freelancers and clients can match and execute P2P: Objective-8: Recruit volunteer freelancers to help pursue Goal-2 for this use case.
+Use-Case (Goal-6): Freelancers and clients match and execute P2P: Objective-8: Recruit volunteer freelancers to help pursue Goal-2 (for this use case).
 ## How anyone can join this project:  
 1. [Create a free Github account](https://github.com) then return to this page.
 2. Email james.schoening@ieee.org with your Github user name and we'll grant you access and help you get involved.     
