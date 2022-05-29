@@ -16,9 +16,22 @@
 1. [Create a free Github account](https://github.com) then return to this page.
 2. Email james.schoening@ieee.org with your Github user name and we'll grant you access and help you get involved.     
 
-## Draft Agenda for 2 June 2022 Meeting
-1. 
-
+## Draft Agenda for 2 June 2022 Meeting (To attend, join this project)
+1. Review new draft Goals and Objectives (see above)  (Jim Schoening)
+  a. How Goal-2 is being pursued via Objective-2 (Casey Rock)
+  b. How Goal-4 is being pursued via Objective-2 (Mark Jensen and Anton from Ukraine)
+  c. How can Goal-1 be pursued via Objective-1 or otherwise? (All)
+  d. How Goal-4 first needs Goal-1 initial users (Jim Schoening)
+  e. How Goal-5 needs any initial user base (Jim Schoening
+  f. Open discussions on other goals
+  g. Use Case Goals (Example: Freelancers)(Jim Schoening)
+2. Differentiation Matrix (Jeanae Clark)
+3. Splash Page ideas  (All)
+4. Key choices:
+  a: Bedrock
+  b. KERI
+  c. Other
+  
 ## Tasks for Volunteers
 > Once you join a team, we will designate tasks accordingly. Each task will have a reporter, assignee, status, and a link to the deliverable. 
 [View List](https://github.com/I-AM-project/tasks-for-volunteers)
