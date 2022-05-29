@@ -16,6 +16,9 @@
 1. [Create a free Github account](https://github.com) then return to this page.
 2. Email james.schoening@ieee.org with your Github user name and we'll grant you access and help you get involved.     
 
+## Draft Agenda for 2 June 2022 Meeting
+1. 
+
 ## Tasks for Volunteers
 > Once you join a team, we will designate tasks accordingly. Each task will have a reporter, assignee, status, and a link to the deliverable. 
 [View List](https://github.com/I-AM-project/tasks-for-volunteers)
