@@ -13,6 +13,9 @@
 |Objective-7: Recruit early individual adopters (When ready)||Secondary |||Primary |
 
 Use-Case (Goal-6): Freelancers and clients match and interact via P2P (no platform): Objective-8: Recruit volunteer freelancers to help pursue Goal-2 (for this use case).
+
+Use-Case (Goal-7): Individuals save on insurance: Objective-9: Gather data models from many insurance companies and extend MyData Ontology
+
 ## How anyone can join this project:  
 1. [Create a free Github account](https://github.com) then return to this page.
 2. Email james.schoening@ieee.org with your Github user name and we'll grant you access and help you get involved.     
