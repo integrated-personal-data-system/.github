@@ -31,7 +31,8 @@ Use-Case (Goal-6): Freelancers and clients match and execute P2P: Objective-8: R
 4. Key choices:
   a: Bedrock
   b. KERI
-  c. Other
+  c. Aries
+  d. Other
   
 ## Tasks for Volunteers
 > Once you join a team, we will designate tasks accordingly. Each task will have a reporter, assignee, status, and a link to the deliverable. 
