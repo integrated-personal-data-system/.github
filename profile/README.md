@@ -16,6 +16,7 @@ Use-Case (Goal-6): Freelancers and clients match and interact via P2P (no platfo
 
 Use-Case (Goal-7): Individuals save on insurance: Objective-9: Gather data models from many insurance companies and extend MyData Ontology
 
+Use-Case (Goal-8): Learners store their standards-based Learner Records so multiple content developers can determine what they are ready to learn:  Objective: Pilot in collaboration with https://www.curiouslearning.org/ 
 ## How anyone can join this project:  
 1. [Create a free Github account](https://github.com) then return to this page.
 2. Email james.schoening@ieee.org with your Github user name and we'll grant you access and help you get involved.     
