@@ -43,21 +43,7 @@ This is an open meeting, so feel free to join at https://teams.microsoft.com/l/m
 > Once you join a team, we will designate tasks accordingly. Each task will have a reporter, assignee, status, and a link to the deliverable. 
 [View List](https://github.com/I-AM-project/tasks-for-volunteers)
 
-## IAM-Project Teams 
-Organization-focused Team: This team will develop generic solutions for organizations (that need high security), which will include SSI capabilities for their members (employees, customers, citizens). 
-
-SSI-Focused Team: This team (of SSI-advocates) will develop, test, and deploy an SSI-optimized solution. Deployment will be in collaboration with an external organization.  The first goal is for a solution good enough for organizations needing only limited security, and then we'll work on higher security versions.   If you are an advocate for self-sovergn identity, personal data control, or online privacy, please join this team by emailing james.schoening@ieee.org.  
-
-<br/>
-
-|  Organization-focused Team | SSI-focused Team |
-| -------------------- | -------------|
-|[Team Page](https://github.com/orgs/I-AM-project/teams/organization-focused-team)  |[Team Page](https://github.com/orgs/I-AM-project/teams/ssi-focused-team)  |
-| [bbu-gf (Org Governance)](https://github.com/I-AM-project/bbu-gf) | [Keri-resources](https://github.com/I-AM-project/keri-resources) |
-| [uni-registrar-driver-did-bbu](https://github.com/I-AM-project/uni-registrar-driver-did-bbu)|[Aries Storage](https://github.com/I-AM-project/Aries-storage)             |
-|  [Indy](https://github.com/I-AM-project/indy-sdk) |             |
-|  [aries-cloudagent-python](https://github.com/I-AM-project/aries-cloudagent-python)  |               |      
-|  [my-data-ontology](https://github.com/I-AM-project/my-data-ontology)|             |
+ 
 
 ## How We Relate (to other initiatives)
 Please visit (and CONTRIBUTE to) our [IAM Differentiation Matrix](https://docs.google.com/spreadsheets/d/160XP7o7k9FFyaFKeGaJFUj2zm7mz8xYUQI1lAVarrC0) to help us understand how our work compares with others.  
