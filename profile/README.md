@@ -25,7 +25,7 @@ Use-Case (Goal-8): Learners store their standards-based Learner Records so multi
 This is an open meeting, so feel free to join at https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzU2ODdhYWMtM2EzOC00NWJhLTk5YTUtYjU5YWZhOGYyZjM4%40thread.v2/0?context=%7b%22Tid%22%3a%228c01056f-1617-4abd-bd9f-7cf599c9be82%22%2c%22Oid%22%3a%2292c6a603-4c1a-4792-bf80-e9864802f143%22%7d
 1. Review new draft Goals and Objectives (see above)  (Jim Schoening)
   a. How Goal-2 is being pursued via Objective-2 (Casey Rock)
-  b. How Goal-4 is being pursued via Objective-2 (Mark Jensen and Anton from Ukraine)
+  b. How Goal-4 is being pursued via Objective-3 (Mark Jensen and Anton from Ukraine)
   c. How can Goal-1 be pursued via Objective-1 or otherwise? (All)
   d. How Goal-4 first needs Goal-1 initial users (Jim Schoening)
   e. How Goal-5 needs any initial user base (Jim Schoening
