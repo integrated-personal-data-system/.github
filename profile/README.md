@@ -12,11 +12,12 @@
 |Objective-6: Recruit members to recruit vendors ||||Primary |
 |Objective-7: Recruit early individual adopters (When ready)||Secondary |||Primary |
 
-Use-Case (Goal-6): Freelancers and clients match and interact via P2P (no platform): Objective-8: Recruit volunteer freelancers to help pursue Goal-2 (for this use case).
+Use-Case-Goal-6: Freelancers and clients match and interact via P2P (no platform): Objective-8: Recruit volunteer freelancers to help pursue Goal-2 (for this use case).
 
-Use-Case (Goal-7): Individuals save on insurance: Objective-9: Gather data models from many insurance companies and extend MyData Ontology
+Use-Case-Goal-7: Individuals save on insurance: Objective-9: Gather data models from many insurance companies and extend MyData Ontology
 
-Use-Case (Goal-8): Learners store their standards-based Learner Records so multiple content developers can determine what they are ready to learn:  Objective: Pilot in collaboration with https://www.curiouslearning.org/ 
+Use-Case-Goal-8: Learners store their standards-based Learner Records so multiple content developers can determine what they are ready to learn:  Objective: Pilot in collaboration with https://www.curiouslearning.org/ 
+
 ## How anyone can join this project:  
 1. [Create a free Github account](https://github.com) then return to this page.
 2. Email james.schoening@ieee.org with your Github user name and we'll grant you access and help you get involved.     
@@ -24,13 +25,13 @@ Use-Case (Goal-8): Learners store their standards-based Learner Records so multi
 ## Draft Agenda for 2 June 2022  9AM EDT Meeting 
 This is an open meeting, so feel free to join at https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzU2ODdhYWMtM2EzOC00NWJhLTk5YTUtYjU5YWZhOGYyZjM4%40thread.v2/0?context=%7b%22Tid%22%3a%228c01056f-1617-4abd-bd9f-7cf599c9be82%22%2c%22Oid%22%3a%2292c6a603-4c1a-4792-bf80-e9864802f143%22%7d
 1. Review new draft Goals and Objectives (see above)  (Jim Schoening)
-  a. How Goal-2 is being pursued via Objective-2 (Casey Rock)
+  a. How Goal-2 is being pursued via Objective-2 (Casey Rock and Jeanae Clark)
   b. How Goal-4 is being pursued via Objective-3 (Mark Jensen and Anton from Ukraine)
   c. How can Goal-1 be pursued via Objective-1 or otherwise? (All)
   d. How Goal-4 first needs Goal-1 initial users (Jim Schoening)
   e. How Goal-5 needs any initial user base (Jim Schoening
-  f. Open discussions on other goals
-  g. Use Case Goals (Example: Freelancers)(Jim Schoening)
+  f. Use Case Goals (Example: Freelancers)(Jim Schoening)
+  g. Open discussions on other goals
 2. Differentiation Matrix (Jeanae Clark)
 3. Splash Page ideas  (All)
 4. Key choices:
