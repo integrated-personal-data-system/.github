@@ -32,9 +32,11 @@ This is an open meeting, so feel free to join at https://teams.microsoft.com/l/m
   e. How Goal-5 needs any initial user base (Jim Schoening
   f. Use Case Goals (Example: Freelancers)(Jim Schoening)
   g. Open discussions on other goals
-2. Differentiation Matrix (Jeanae Clark)
-3. Splash Page ideas  (All)
-4. Key choices:
+2. Personal Data Store (PDS) for Wallet/Agent -- Casey and Jeanae
+3. MyData Ontology for PDS (and mappings to vendor data)-- Mark Jensen and Anton from Ukraine
+4. Differentiation Matrix (Jeanae Clark)
+5. Splash Page ideas  (All)
+6. Key choices:
   a: Bedrock
   b. KERI
   c. Aries
