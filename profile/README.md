@@ -45,5 +45,5 @@ This is an open meeting, so feel free to join at https://teams.microsoft.com/l/m
 
  
 
-## How We Relate (to other initiatives)
+## How We Relate to other Initiatives)
 Please visit (and CONTRIBUTE to) our [IAM Differentiation Matrix](https://docs.google.com/spreadsheets/d/160XP7o7k9FFyaFKeGaJFUj2zm7mz8xYUQI1lAVarrC0) to help us understand how our work compares with others.  
