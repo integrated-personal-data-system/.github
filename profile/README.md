@@ -6,11 +6,11 @@
 | ----------------------------- | -------------| ----------|  ----------| ----------| ----------|
 | Objective-1: Bedrock: Pilot org conducts risk assessment on Bedrock  [Repo](https://github.com/I-AM-project/bbu-gf) | Primary |  | Secondary |
 | Objective-2: Digital wallet w/ PDS: Create first version for developers to test and improve [Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)| Supporting | Primary |Primary | Supporting |
-| Objective-3: MyData Ontology: Refine and extend [Repo](https://github.com/CommonCoreOntology)   |    | Primary |         |Primary |Primary |
+| Objective-3: MyData Ontology: Refine, extend, demo and pilot. [Repo](https://github.com/CommonCoreOntology)   |    | Primary |         |Primary |Primary |
 | Objective-4: KERI:   |               |  Primary |    
 | Objective-5: Recruit Developers to test and improve offerings. [Repo](https://github.com/I-AM-project/keri-resources)       |   |Primary |
-|Objective-6: Recruit members to recruit vendors ||||Primary |
-|Objective-7: Recruit early individual adopters (When ready)||Secondary |||Primary |
+|Objective-6: Recruit members to recruit vendors ||Primary||Primary |
+|Objective-7: Recruit early individual adopters (When ready)||Primary ||Primary|Primary |
 
 Use-Case-Goal-6: Freelancers and clients match and interact via P2P (no platform): Objective-8: Recruit volunteer freelancers to help pursue Goal-2 (for this use case).
 
