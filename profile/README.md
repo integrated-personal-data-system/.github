@@ -25,6 +25,7 @@ Use-Case-Goal-9: Homeowners gain better mortgages, and more easily: Objective-11
 2. Email james.schoening@ieee.org with your Github user name and we'll grant you access and help you get involved.     
 
 ## Draft Agenda for July 2022 meeting (Date TBD) 
+(Should be posted by 23 June)
 
   
 ## Tasks for Volunteers
