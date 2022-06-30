@@ -25,7 +25,18 @@ Use-Case-Goal-9: Homeowners gain better mortgages, and more easily: Objective-11
 2. Email james.schoening@ieee.org with your Github user name and we'll grant you access and help you get involved.     
 
 ## Draft Agenda for July 2022 meeting (Date TBD) 
-(Should be posted by 23 June)
+
+1. Review updated Goals and Objectives (posted at github.com/I-AM-project) --Jim Schoening
+
+2. IAM-Project Testbed (Sneak Peak of Wallet with PDS) -- Jeanae and Casey
+
+3. Planned demonstrations  -- Jim Schoening
+
+4. Status on seeking Airies collaborators -- Jim Schoening
+
+5. Key choices: a: Bedrock b. KERI c. Aries d. Other  -- All
+
+6. Next steps / Growing the team -- Jim St. Clair and all
 
   
 ## Tasks for Volunteers
