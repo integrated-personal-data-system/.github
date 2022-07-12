@@ -28,7 +28,7 @@ Use-Case-Goal-9: Homeowners gain better mortgages, and more easily: Objective-11
 
 1. Review updated Goals and Objectives (posted at github.com/I-AM-project) --Jim Schoening
 
-2. IAM-Project Testbed (Sneak Peak of Wallet with PDS) -- Jeanae and Casey
+2. IAM-Project Testbed (Sneak Peak of Cloud Agent testbed with PDS) -- Jeanae and Casey
 
 3. Planned demonstrations  -- Jim Schoening
 
