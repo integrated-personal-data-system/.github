@@ -42,7 +42,7 @@ Use-Case-Goal 10: Pharmacy Operations improve cyber security: Objective: Conduct
 
   
 ## Tasks for Volunteers
-> Once you join a team, we will designate tasks accordingly. Each task will have a reporter, assignee, status, and a link to the deliverable. 
+
 [View List](https://github.com/I-AM-project/tasks-for-volunteers)
 
  
