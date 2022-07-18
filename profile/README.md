@@ -7,7 +7,7 @@
 | Objective-1: Bedrock: Pilot org conducts risk assessment on Bedrock  [Repo](https://github.com/I-AM-project/bbu-gf) | Primary |  | Secondary |
 | Objective-2: Digital cloud agent w/ PDS: Create testbed for development and demonstrations [Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)| Supporting | Primary |Primary | Supporting |
 | Objective-3: MyData Ontology: Refine, extend, demo and pilot. [Repo](https://github.com/CommonCoreOntology)   |    | Primary |         |Primary |Primary |
-| Objective-4: KERI:   |               |  Primary |    
+| Objective-4: Digital cloud agent w/PDS: Pilot internally, then recruit new members |  Supporting | Primary | Primary  | Supporting |  Supporting |
 | Objective-5: Recruit Developers to test and improve offerings. [Repo](https://github.com/I-AM-project/keri-resources)       |   |Primary |
 |Objective-6: Recruit members to recruit vendors ||Primary||Primary |
 |Objective-7: Recruit early individual adopters (When ready)||Primary ||Primary|Primary |
