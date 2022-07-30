@@ -7,7 +7,7 @@
 | Objective-1: Bedrock: Pilot org conducts risk assessment on Bedrock  [Repo](https://github.com/I-AM-project/bbu-gf) | Primary |  | Secondary |
 | Objective-2: Digital cloud agent w/ PDS: Create testbed for development and demonstrations [Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)| Supporting | Primary |Primary | Supporting |
 | Objective-3: MyData Ontology: Refine, extend, demo and pilot. [Repo](https://github.com/CommonCoreOntology)   |    | Primary |         |Primary |Primary |
-| Objective-4: Digital cloud agent w/PDS: Pilot internally, then recruit new members |  Supporting | Primary | Primary  | Supporting |  Supporting |
+| Objective-4: Digital cloud agent w/PDS: Pilot internally, then recruit new members to pilot|  Supporting | Primary | Primary  | Supporting |  Supporting |
 | Objective-5: Recruit Developers to test and improve offerings. [Repo](https://github.com/I-AM-project/keri-resources)       |   |Primary |
 |Objective-6: Recruit members to recruit vendors ||Primary||Primary |
 |Objective-7: Recruit early individual adopters (When ready)||Primary ||Primary|Primary |
@@ -20,7 +20,7 @@ Use-Case-Goal-8: Learners store their standards-based Learner Records so multipl
 
 Use-Case-Goal-9: Home Mortgage ecosystem facilitated: Objective-11: Gather person-centric mortgage data, extend MyData Ontology, and conduct tech demo and pilots.  
 
-Use-Case-Goal 10: Pharmacy Operations improve cyber security: Objective: Conduct Tech Demo to recruit contributors.
+Use-Case-Goal 10: Pharmacy Operations improve cyber security: Objective 12: Conduct Tech Demo to recruit contributors.
 
 ## How anyone can join this project:  
 1. [Create a free Github account](https://github.com) then return to this page.
