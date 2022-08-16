@@ -29,7 +29,7 @@ Use-Case-Goal 10: Pharmacy Operations improve cyber security: Objective 12: Cond
 ## Draft Agenda for late-August 2022 meeting  
 
 1. Review updated Goals and Objectives (posted at github.com/I-AM-project) --Jim
-2. IAM-Project Testbed at https://iamtestingbed.com -- Casey
+2. Meeting Focus: Testbed at https://iamtestingbed.com -- Casey
 3. Outreach (Aries, W3C, ToIP, MyData Global, Trinsic?, etc.)  -- All
 4. Piloting Plans and Status -- Jim
 
