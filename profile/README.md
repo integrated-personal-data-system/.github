@@ -26,19 +26,13 @@ Use-Case-Goal 10: Pharmacy Operations improve cyber security: Objective 12: Cond
 1. [Create a free Github account](https://github.com) then return to this page.
 2. Email james.schoening@ieee.org with your Github user name and we'll grant you access and help you get involved.     
 
-## Draft Agenda for July 2022 meeting 12 July 2022 0900 EDT 
+## Draft Agenda for late-August 2022 meeting  
 
 1. Review updated Goals and Objectives (posted at github.com/I-AM-project) --Jim Schoening
 
-2. IAM-Project Testbed (Sneak Peak of Cloud Agent testbed with PDS) -- Jeanae and Casey
+2. IAM-Project Testbed at https://iamtestingbed.com -- Casey
 
-3. Planned demonstrations  -- Jim Schoening
-
-4. Status on seeking Airies collaborators -- Jim Schoening
-
-5. Key choices: a: Bedrock b. KERI c. Aries d. Other  -- All
-
-6. Next steps / Growing the team -- Jim St. Clair and all
+3. Outreach (Aries, W3C, ToIP, MyData Global, Trinsic?, etc.)  -- Jim Schoening
 
   
 ## Tasks for Volunteers
