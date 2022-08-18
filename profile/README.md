@@ -26,7 +26,7 @@ Use-Case-Goal 10: Pharmacy Operations improve cyber security: Objective 12: Cond
 1. [Create a free Github account](https://github.com) then return to this page.
 2. Email james.schoening@ieee.org with your Github user name and we'll grant you access and help you get involved.     
 
-## Draft Agenda for late-August 2022 meeting  
+## Draft Agenda for 24 August 2022, 9AM EDT meeting  
 
 1. Review updated Goals and Objectives (posted at github.com/I-AM-project) --Jim
 2. Meeting Focus: Testbed at https://iamtestingbed.com -- Casey
