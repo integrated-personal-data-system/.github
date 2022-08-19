@@ -31,7 +31,7 @@ Use-Case-Goal 10: Pharmacy Operations improve cyber security: Objective 12: Cond
 1. Review updated Goals and Objectives (posted at github.com/I-AM-project) --Jim
 2. Meeting Focus: Testbed at https://iamtestingbed.com -- Casey
 3. Outreach (Aries, W3C, ToIP, MyData Global, Trinsic?, etc.)  -- All
-4. Should we explore forming an Aries Working Group? 
+4. Should we explore forming an Aries Working Group for our iPDS? 
 5. Piloting Plans and Status -- Jim
 
   
