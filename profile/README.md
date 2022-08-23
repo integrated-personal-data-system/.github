@@ -6,7 +6,7 @@
 | ----------------------------- | -------------| ----------|  ----------| ----------| ----------|
 | Objective-1: Bedrock: Pilot org conducts risk assessment on Bedrock  [Repo](https://github.com/I-AM-project/bbu-gf) | Primary |  | Secondary |
 | Objective-2: Wallet with iPDS: Enhance [Testbed](https://iamtestingbed.com/).  [  Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)| Supporting | Primary |Primary | Supporting |
-| Objective-3: MyData Ontology: Refine, extend, demo and pilot. [Repo](https://github.com/CommonCoreOntology)   |    | Primary |         |Primary |Primary |
+| Objective-3: MyOntology: Refine, extend, demo and pilot. [Repo](https://github.com/CommonCoreOntology)   |    | Primary |         |Primary |Primary |
 | Objective-4: Wallet with iPDS: Pilot internally, recruit others|  Supporting | Primary | Primary  | Supporting |  Supporting |
 | Objective-5: Recruit Developers to test and improve offerings. [Repo](https://github.com/I-AM-project/keri-resources)       |   |Primary |
 |Objective-6: Recruit members to recruit vendors ||Primary||Primary |
@@ -14,11 +14,11 @@
 
 Use-Case-Goal-6: Freelancers and clients match and interact via P2P (no platform): Objective-8: Recruit volunteer freelancers to help pursue Goal-2 (for this use case).
 
-Use-Case-Goal-7: Individuals save on insurance: Objective-9: Gather data models from many insurance companies and extend MyData Ontology
+Use-Case-Goal-7: Individuals save on insurance: Objective-9: Gather data models from many insurance companies and extend MyOntology
 
 Use-Case-Goal-8: Learners store their standards-based Learner Records so multiple content developers can determine what they are ready to learn:  Objective-10: Pilot in collaboration with https://www.curiouslearning.org/ 
 
-Use-Case-Goal-9: Home Mortgage ecosystem facilitated: Objective-11: Gather person-centric mortgage data, extend MyData Ontology, and conduct tech demo and pilots.  
+Use-Case-Goal-9: Home Mortgage ecosystem facilitated: Objective-11: Gather person-centric mortgage data, extend MyOntology, and conduct tech demo and pilots.  
 
 Use-Case-Goal 10: Pharmacy Operations improve cyber security: Objective 12: Conduct Tech Demo to recruit contributors.
 
