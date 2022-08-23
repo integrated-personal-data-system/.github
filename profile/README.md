@@ -29,7 +29,7 @@ Use-Case-Goal 10: Pharmacy Operations improve cyber security: Objective 12: Cond
 ## Draft Agenda for 24 August 2022, 9AM EDT meeting  
 
 1. Review updated Goals and Objectives (posted at github.com/I-AM-project) --Jim
-2.Collaboration with IEEE OS MyOntology (previously MyData Ontology) Project
+2. Collaboration with IEEE OS MyOntology (previously MyData Ontology) Project
 3. Meeting Focus: Testbed at https://iamtestingbed.com -- Casey
 4. Outreach (Aries, W3C, ToIP, MyData Global, Trinsic?, etc.)  -- All
 5. Should we explore forming an Aries Working Group for our iPDS? 
