@@ -29,13 +29,14 @@ Use-Case-Goal: Pharmacy Operations improve cyber security: Objective 12: Create 
 
 ## Draft Agenda for 24 August 2022, 9AM EDT meeting  
 
-1. Review updated Goals and Objectives (posted at github.com/I-AM-project) --Jim
-2. Collaboration with IEEE OS MyOntology (previously MyData Ontology) Project
-3. Meeting Focus: Testbed at https://iamtestingbed.com -- Casey
-4. Outreach (iPDS-only) (Aries, W3C, ToIP, MyData Global, Trinsic?, DIF, etc.)  -- All
-5. Should we explore forming an Aries Working Group for our iPDS? 
-6. iPDS Piloting Plans and Status -- Jim
-7. Jim St. Clair comments -- All
+1. Jim St. Clair comments -- All
+2. Review updated Goals and Objectives (posted at github.com/I-AM-project) --Jim
+3. Collaboration with IEEE OS MyOntology (previously MyData Ontology) Project
+4. Meeting Focus: Testbed at https://iamtestingbed.com -- Casey
+5. Outreach (iPDS-only) (Aries, W3C, ToIP, MyData Global, Trinsic?, DIF, etc.)  -- All
+6. Should we explore forming an Aries Working Group for our iPDS? 
+7. iPDS Piloting Plans and Status -- Jim
+ 
 
   
 ## Tasks for Volunteers
