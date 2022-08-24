@@ -4,7 +4,7 @@
 
 |  | Goal-1: Organizations achieve goals of Zero Trust. | Goal-2: Individuals collect and share credentials and data, privately.  |Goal-3: Organizations help members govern their cloud agents/ wallets | Goal-4: Individuals accept, integrate, and use data from vendors. | Goal-5: Organizations implement Identity Lifecycle Management (ILM)|
 | ----------------------------- | -------------| ----------|  ----------| ----------| ----------|
-| Objective-1: Orgs develop, assess risk, and pilot.  [Repo](https://github.com/I-AM-project/bbu-gf) | Primary |  | Secondary ||
+| Objective-1: Orgs set up a Didymium network, assess risk, seek approvals, and pilot.  [Repo](https://github.com/I-AM-project/bbu-gf) | Primary |  | Secondary ||
 | Objective-2: Wallet with iPDS: Enhance [Testbed](https://iamtestingbed.com/).  [  Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)| Supporting | Primary |Primary | Supporting |
 | Objective-3: MyOntology: Refine, extend, demo and pilot. [Repo](https://github.com/CommonCoreOntology)   |    | Primary |         |Primary ||
 | Objective-4: Wallet with iPDS: Pilot internally, recruit others|  Supporting | Primary | Primary  | Supporting |   |
