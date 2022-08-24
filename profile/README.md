@@ -33,7 +33,7 @@ Use-Case-Goal 10: Pharmacy Operations improve cyber security: Objective 12: Cond
 3. Meeting Focus: Testbed at https://iamtestingbed.com -- Casey
 4. Outreach (iPDS-only) (Aries, W3C, ToIP, MyData Global, Trinsic?, DIF, etc.)  -- All
 5. Should we explore forming an Aries Working Group for our iPDS? 
-6. Piloting Plans and Status -- Jim
+6. iPDS Piloting Plans and Status -- Jim
 
   
 ## Tasks for Volunteers
