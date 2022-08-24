@@ -14,13 +14,13 @@
 
 Use-Case-Goal-6: Freelancers and clients match and interact via P2P (no platform): Objective-8: Recruit volunteer freelancers to help pursue Goal-2 (for this use case).
 
-Use-Case-Goal-7: Individuals save on insurance: Objective-9: Gather data models from many insurance companies and extend MyOntology
+Use-Case-Goal-7: Individuals save on insurance: Objective-9: Gather data models from many insurance companies, extend MyOntology, conduct trial where individual shares needed data and seeks bids. 
 
 Use-Case-Goal-8: Learners store their standards-based Learner Records so multiple content developers can determine what they are ready to learn:  Objective-10: Pilot in collaboration with https://www.curiouslearning.org/ 
 
-Use-Case-Goal-9: Home Mortgage ecosystem facilitated: Objective-11: Gather person-centric mortgage data, extend MyOntology, and conduct tech demo and pilots.  
+Use-Case-Goal-9: Home Mortgage ecosystem facilitated: Objective-11: Gather person-centric mortgage data, extend MyOntology, and trial where individual shares needed data and seeks bids. 
 
-Use-Case-Goal 10: Pharmacy Operations improve cyber security: Objective 12: Conduct Tech Demo to recruit contributors.
+Use-Case-Goal 10: Pharmacy Operations improve cyber security: Objective 12: Create Minimum Viable Product, Risk Assessment, and obtain authority to operate an initial pilot, then build toward robust solution. 
 
 ## How anyone can join this project:  
 1. [Create a free Github account](https://github.com) then return to this page.
