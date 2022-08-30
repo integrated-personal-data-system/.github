@@ -6,7 +6,7 @@
 | ----------------------------- | -------------| ----------|  ----------| ----------| ----------|
 | Objective-1: Orgs set up a Didymium or other networks, assess risk, seek approvals, and pilot.  [Repo](https://github.com/I-AM-project/bbu-gf) | Primary |  | Secondary ||
 | Objective-2: Wallet with iPDS: Enhance [Testbed](https://iamtestingbed.com/).  [  Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)| Supporting | Primary |Primary | Supporting |
-| Objective-3: MyOntology: Refine, extend, demo and pilot. [Repo](https://github.com/CommonCoreOntology)   |    | Primary |         |Primary ||
+| Objective-3: MyOntology: Seek vendors to help refine, extend, and pilot. [Repo](https://github.com/CommonCoreOntology)   |    | Primary |         |Primary ||
 | Objective-4: Wallet with iPDS: Pilot internally, recruit others|  Supporting | Primary | Primary  | Supporting |   |
 | Objective-5: Recruit Developers to test and improve offerings. [Repo](https://github.com/I-AM-project/keri-resources)       |   |Primary |
 |Objective-6: Recruit members to recruit vendors ||Primary||Primary |
