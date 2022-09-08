@@ -19,7 +19,7 @@ Use-Case-Goal: Individuals save on insurance: Objective-9: Gather data models fr
 
 Use-Case-Goal: Learners store their standards-based Learner Records so multiple content developers can determine what they are ready to learn:  Objective-10: Pilot in collaboration with https://www.curiouslearning.org/ 
 
-Use-Case-Goal: Home Mortgage ecosystem facilitated: Objective-11: Gather person-centric mortgage data, extend MyOntology, and trial where individual shares needed data and seeks bids. 
+Use-Case-Goal: Home Mortgage ecosystem facilitated: Objective-11: Pilot: Borrows gather standard mortgage data and credentials, and seek bids from mortgage lenders.  
 
 Use-Case-Goal: Pharmacy Operations improve cyber security: Objective 12: Create Minimum Viable Product, Risk Assessment, and obtain authority to operate an initial pilot, then build toward robust solution. 
 
