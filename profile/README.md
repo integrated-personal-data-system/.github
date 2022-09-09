@@ -15,9 +15,7 @@ Goal: Organizations achieve goals of Zero Trust.  Objective-1: Orgs set up a Did
 | Objective-2: Wallet with iPDS: Enhance [Testbed](https://iamtestingbed.com/).  [  Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)| Supporting | Primary |Primary | 
 | Objective-3: Collaborate with IEEE MyOntology: Seek vendors to help refine, extend, and pilot. [Repo](https://opensource.ieee.org/myontology-group)   |    | Primary |         |Primary |
 | Objective-4: Wallet with iPDS: Pilot internally, recruit others|  Supporting | Primary | Primary  | Supporting |   
-| Objective-5: Recruit Developers to test and improve offerings. [Repo](https://github.com/I-AM-project/keri-resources)       |   
-|Objective-6: Recruit members to recruit vendors ||Primary||Primary |
-|Objective-7: Recruit early individual adopters (When ready)||Primary ||Primary| 
+
 
 ## Use-Case Goals and Objectives
 Use-Case-Goal: Learners store their standards-based Learner Records so multiple content developers can determine what they are ready to learn:  Objective: Continue with piloting to achieved sustained adoption. 
