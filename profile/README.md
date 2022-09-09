@@ -13,7 +13,7 @@
 |Objective-7: Recruit early individual adopters (When ready)||Primary ||Primary| |
 |Objective-8: Orgs develop ILM, assess risk, and pilot |||||Primary|
 
-Use-Case-Goal: Freelancers and clients match and interact via P2P (no platform): Objective-8: Recruit volunteer freelancers to help pursue Goal-2 (for this use case).
+## Use-Case Goals and Objectives
 
 Use-Case-Goal: Individuals save on insurance: Objective-9: Gather data models from many insurance companies, extend MyOntology, conduct trial where individual shares needed data and seeks bids. 
 
@@ -22,6 +22,8 @@ Use-Case-Goal: Learners store their standards-based Learner Records so multiple 
 Use-Case-Goal: Home Mortgage ecosystem facilitated: Objective-11: Pilot: Borrows gather standard mortgage data and credentials, and seek bids from mortgage lenders.  
 
 Use-Case-Goal: Pharmacy Operations improve cyber security: Objective 12: Create Minimum Viable Product, Risk Assessment, and obtain authority to operate an initial pilot, then build toward robust solution. 
+## Future Goals and Objectives (Not yet started)
+Use-Case-Goal: Freelancers and clients match and interact via P2P (no platform): Objective-8: Recruit volunteer freelancers to help pursue Goal-2 (for this use case).
 
 ## How anyone can join this project:  
 1. [Create a free Github account](https://github.com) then return to this page.
