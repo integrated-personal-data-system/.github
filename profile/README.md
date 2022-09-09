@@ -2,7 +2,7 @@
 # Goals and Objectives (Find your passion, join, help!)
 'Goals' are various desired End-States.   'Objectives' are the next steps to get to each Goal. 'Primary' = Main Objective for that Goal. 'Secondary' = Another objective for that Goal.  'Supporting' = Provides value to a Primary Objective.
 
-|  | Goal-1: Organizations achieve goals of Zero Trust | Goal-2: Individuals collect, use, and share integrated data and credentials  |Goal-3: Organizations help members govern their wallets | Goal-4: Organizations share their unique data by mapping it to a standard  | Goal-5: Organizations implement Identity Lifecycle Management (ILM)|
+|  | Goal-1: Organizations achieve goals of Zero Trust | Goal-2: Individuals collect, use, and share integrated data and credentials  |Goal-3: Organizations help members govern their wallets | Goal-4: Organizations share their unique data by mapping it to a standard  ||
 | ----------------------------- | -------------| ----------|  ----------| ----------| ----------|
 | Objective-1: Orgs set up a Didymium or other networks, assess risk, seek approvals, and pilot.  [Repo](https://github.com/I-AM-project/bbu-gf) | Primary |  | Secondary ||
 | Objective-2: Wallet with iPDS: Enhance [Testbed](https://iamtestingbed.com/).  [  Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)| Supporting | Primary |Primary | Supporting |
