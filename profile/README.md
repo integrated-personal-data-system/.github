@@ -11,7 +11,6 @@
 | Objective-5: Recruit Developers to test and improve offerings. [Repo](https://github.com/I-AM-project/keri-resources)       |   |Primary |
 |Objective-6: Recruit members to recruit vendors ||Primary||Primary |
 |Objective-7: Recruit early individual adopters (When ready)||Primary ||Primary| |
-|Objective-8: Orgs develop ILM, assess risk, and pilot |||||Primary|
 
 ## Use-Case Goals and Objectives
 Use-Case-Goal: Learners store their standards-based Learner Records so multiple content developers can determine what they are ready to learn:  Objective: Continue with piloting to achieved sustained adoption. 
