@@ -21,6 +21,8 @@ Use-Case-Goal: Mortgage ecosystem facilitated: Objective: Pilot: Borrows gather 
 Use-Case-Goal: Pharmacy Operations improve cyber security: Objective: Create Minimum Viable Product, Risk Assessment, and obtain authority to operate an initial pilot, then build toward robust solution. 
 
 ## Future Goals and Objectives (Not yet started)
+Goal: Organizations implement Identity Lifecycle Management (ILM).  Objective: Orgs develop ILM, assess risk, and pilot
+
 Use-Case-Goal: Freelancers and clients match and interact via P2P (no platform): Objective: Recruit volunteer freelancers to help develop and pilot
 
 Use-Case-Goal: Individuals save on insurance: Objective: Gather data models from many insurance companies, extend MyOntology, conduct trial where individual shares needed data and seeks bids. 
