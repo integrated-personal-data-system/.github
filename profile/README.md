@@ -1,13 +1,5 @@
 ### This is a Linux Foundation Project. 
 # Goals and Objectives (Find your passion, join, help!)
-Goal: Individuals collect, use, and share integrated data and credentials  Objective: Wallet with iPDS: Enhance [Testbed](https://iamtestingbed.com/).  [  Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)
-
-Goal: Organizations share their unique data by mapping it to a standard.   Objective-3: Collaborate with IEEE [MyOntology] (https://opensource.ieee.org/myontology-group) Seek vendors to help refine, extend, and pilot.  [Repo](https://opensource.ieee.org/myontology-group) 
-
-Goal: Organizations achieve goals of Zero Trust.  Objective-1: Orgs set up a Didymium or other networks, assess risk, seek approvals, and pilot.  [Repo](https://github.com/I-AM-project/bbu-gf)
-
-
-'Goals' are various desired End-States.   'Objectives' are the next steps to get to each Goal. 'Primary' = Main Objective for that Goal. 'Secondary' = Another objective for that Goal.  'Supporting' = Provides value to a Primary Objective.
 
 | Goals | Objectives | Objective | Objective |   |
 | ----------------------------- | -------------| ----------|  ----------| ----------|
