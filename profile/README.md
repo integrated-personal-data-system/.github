@@ -29,15 +29,12 @@ Use-Case-Goal: Individuals save on insurance: Objective: Gather data models from
 1. [Create a free Github account](https://github.com) then return to this page.
 2. Email james.schoening@ieee.org with your Github user name and we'll grant you access and help you get involved.     
 
-## Draft Agenda for 24 August 2022, 9AM EDT meeting  
+## Draft Agenda for next meeting (DATE TBD)  
 
-1. Jim St. Clair comments -- All
-2. Review updated Goals and Objectives (posted at github.com/I-AM-project) --Jim
-3. Collaboration with IEEE OS MyOntology (previously MyData Ontology) Project
-4. Meeting Focus: Testbed at https://iamtestingbed.com -- Casey
-5. Outreach (iPDS-only) (Aries, W3C, ToIP, MyData Global, Trinsic?, DIF, etc.)  -- All
-6. Should we explore forming an Aries Working Group for our iPDS? 
-7. iPDS Piloting Plans and Status -- Jim
+1. Review updated Goals and Objectives (posted at github.com/I-AM-project) --Jim
+2. Testbed demo of Verification using resolvable standard ontology terms.  https://iamtestingbed.com -- Casey
+3. Outreach (iPDS-only) (Aries, W3C, ToIP, MyData Global, Trinsic?, DIF, etc.)  -- All
+4. (Add your topic here.)
  
 
   
