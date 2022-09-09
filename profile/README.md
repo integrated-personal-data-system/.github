@@ -2,7 +2,7 @@
 # Goals and Objectives (Find your passion, join, help!)
 'Goals' are various desired End-States.   'Objectives' are the next steps to get to each Goal. 'Primary' = Main Objective for that Goal. 'Secondary' = Another objective for that Goal.  'Supporting' = Provides value to a Primary Objective.
 
-|  | Goal-1: Organizations achieve goals of Zero Trust | Goal-2: Individuals collect, use, and share integrated data and credentials  |Goal-3: Organizations help members govern their wallets | Goal-4: Organizations share their unique data by mapping it to a standard  |
+|  | Goal-1: Organizations achieve goals of Zero Trust | Goal-2: Individuals collect, use, and share integrated data and credentials  | | Goal-4: Organizations share their unique data by mapping it to a standard  |
 | ----------------------------- | -------------| ----------|  ----------| ----------|
 | Objective-1: Orgs set up a Didymium or other networks, assess risk, seek approvals, and pilot.  [Repo](https://github.com/I-AM-project/bbu-gf) | Primary |  | Secondary |
 | Objective-2: Wallet with iPDS: Enhance [Testbed](https://iamtestingbed.com/).  [  Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)| Supporting | Primary |Primary | 
@@ -20,6 +20,8 @@ Use-Case-Goal: Mortgage ecosystem facilitated: Objective: Pilot: Borrows gather 
 Use-Case-Goal: Pharmacy Operations improve cyber security: Objective: Create Minimum Viable Product, Risk Assessment, and obtain authority to operate an initial pilot, then build toward robust solution. 
 
 ## Future Goals and Objectives (Not yet started)
+Goal: Organizations help members govern their wallets 
+
 Goal: Organizations implement Identity Lifecycle Management (ILM).  Objective: Orgs develop ILM, assess risk, and pilot
 
 Use-Case-Goal: Freelancers and clients match and interact via P2P (no platform): Objective: Recruit volunteer freelancers to help develop and pilot
