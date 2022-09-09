@@ -1,11 +1,11 @@
 ### This is a Linux Foundation Project. 
 # Goals and Objectives (Find your passion, join, help!)
 
-| Goals | Objectives | Objective | Objective |   |
+| Goals | Objective | Objective | Objective |   |
 | ----------------------------- | -------------| ----------|  ----------| ----------|
-|Individuals collect, use, and share integrated data and credentials |Enhance Wallet/iPDS [Testbed](https://iamtestingbed.com/).  [  Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)|Seek engagement from other Open Source groups | Seek and initiate pilots |
-|Organizations share their unique data by mapping it to a standard|Collaborate with IEEE [MyOntology](https://opensource.ieee.org/myontology-group) |Seek vendors to help refine, extend, and pilot. |
-|Organizations achieve goals of Zero Trust |Orgs set up a Didymium or other networks, assess risk, seek approvals, and pilot.  [Repo](https://github.com/I-AM-project/bbu-gf)
+|Individuals collect, use, and share integrated data and credentials |Enhance Wallet/iPDS [Testbed](https://iamtestingbed.com/).  [  Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)|Seek engagement from other Open Source developers | Seek and initiate pilots |
+|Organizations share their unique data by mapping it to a standard ontology|Collaborate with IEEE [MyOntology](https://opensource.ieee.org/myontology-group) Project|Seek vendors to help refine, extend, and pilot standard ontologies. |
+|Organizations achieve goals of Zero Trust |Orgs set up Didymium or other networks, assess risk, seek approvals, and pilot.  [Repo](https://github.com/I-AM-project/bbu-gf) | 
 
    
 
