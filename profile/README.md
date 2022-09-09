@@ -2,15 +2,15 @@
 # Goals and Objectives (Find your passion, join, help!)
 'Goals' are various desired End-States.   'Objectives' are the next steps to get to each Goal. 'Primary' = Main Objective for that Goal. 'Secondary' = Another objective for that Goal.  'Supporting' = Provides value to a Primary Objective.
 
-|  | Goal-1: Organizations achieve goals of Zero Trust | Goal-2: Individuals collect, use, and share integrated data and credentials  |Goal-3: Organizations help members govern their wallets | Goal-4: Organizations share their unique data by mapping it to a standard  ||
-| ----------------------------- | -------------| ----------|  ----------| ----------| ----------|
-| Objective-1: Orgs set up a Didymium or other networks, assess risk, seek approvals, and pilot.  [Repo](https://github.com/I-AM-project/bbu-gf) | Primary |  | Secondary ||
-| Objective-2: Wallet with iPDS: Enhance [Testbed](https://iamtestingbed.com/).  [  Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)| Supporting | Primary |Primary | Supporting |
-| Objective-3: Collaborate with IEEE MyOntology: Seek vendors to help refine, extend, and pilot. [Repo](https://opensource.ieee.org/myontology-group)   |    | Primary |         |Primary ||
-| Objective-4: Wallet with iPDS: Pilot internally, recruit others|  Supporting | Primary | Primary  | Supporting |   |
-| Objective-5: Recruit Developers to test and improve offerings. [Repo](https://github.com/I-AM-project/keri-resources)       |   |Primary |
+|  | Goal-1: Organizations achieve goals of Zero Trust | Goal-2: Individuals collect, use, and share integrated data and credentials  |Goal-3: Organizations help members govern their wallets | Goal-4: Organizations share their unique data by mapping it to a standard  |
+| ----------------------------- | -------------| ----------|  ----------| ----------|
+| Objective-1: Orgs set up a Didymium or other networks, assess risk, seek approvals, and pilot.  [Repo](https://github.com/I-AM-project/bbu-gf) | Primary |  | Secondary |
+| Objective-2: Wallet with iPDS: Enhance [Testbed](https://iamtestingbed.com/).  [  Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)| Supporting | Primary |Primary | 
+| Objective-3: Collaborate with IEEE MyOntology: Seek vendors to help refine, extend, and pilot. [Repo](https://opensource.ieee.org/myontology-group)   |    | Primary |         |Primary |
+| Objective-4: Wallet with iPDS: Pilot internally, recruit others|  Supporting | Primary | Primary  | Supporting |   
+| Objective-5: Recruit Developers to test and improve offerings. [Repo](https://github.com/I-AM-project/keri-resources)       |   
 |Objective-6: Recruit members to recruit vendors ||Primary||Primary |
-|Objective-7: Recruit early individual adopters (When ready)||Primary ||Primary| |
+|Objective-7: Recruit early individual adopters (When ready)||Primary ||Primary| 
 
 ## Use-Case Goals and Objectives
 Use-Case-Goal: Learners store their standards-based Learner Records so multiple content developers can determine what they are ready to learn:  Objective: Continue with piloting to achieved sustained adoption. 
