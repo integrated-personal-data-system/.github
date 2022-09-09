@@ -7,12 +7,7 @@
 |Organizations share their unique data by mapping it to a standard|Collaborate with IEEE [MyOntology](https://opensource.ieee.org/myontology-group) |Seek vendors to help refine, extend, and pilot. |
 |Organizations achieve goals of Zero Trust |Orgs set up a Didymium or other networks, assess risk, seek approvals, and pilot.  [Repo](https://github.com/I-AM-project/bbu-gf)
 |
-
-
-| Objective-1: Orgs set up a Didymium or other networks, assess risk, seek approvals, and pilot.  [Repo](https://github.com/I-AM-project/bbu-gf) | Primary |  | Secondary |
-| Objective-2: Wallet with iPDS: Enhance [Testbed](https://iamtestingbed.com/).  [  Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)| Supporting | Primary |Primary | 
-| Objective-3: Collaborate with IEEE MyOntology: Seek vendors to help refine, extend, and pilot. [Repo](https://opensource.ieee.org/myontology-group)   |    | Primary |         |Primary |
-| Objective-4: Wallet with iPDS: Pilot internally, recruit others|  Supporting | Primary | Primary  | Supporting |   
+   
 
 
 ## Use-Case Goals and Objectives
