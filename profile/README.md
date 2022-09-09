@@ -33,9 +33,9 @@ Use-Case-Goal: Individuals save on insurance: Objective: Gather data models from
 
 ## Draft Agenda for next meeting (DATE TBD)  
 
-1. Review updated Goals and Objectives (posted at github.com/I-AM-project) --Jim
+1. Review simplified Goals and Objectives (posted at github.com/I-AM-project) --Jim
 2. Testbed demo of Verification using resolvable standard ontology terms.  https://iamtestingbed.com -- Casey
-3. Outreach (iPDS-only) (Aries, W3C, ToIP, MyData Global, Trinsic?, DIF, etc.)  -- All
+3. Outreach (iPDS-only) (Aries, W3C, LF Hyperledger Morgage Subgroup, Pharmacy Pilot, ToIP, MyData Global, Trinsic, DIF, etc.)  -- All
 4. (Add your topic here.)
  
 
