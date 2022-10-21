@@ -32,7 +32,7 @@ Use-Case-Goal: Individuals save on insurance: Objective: Gather data models from
 2. Email james.schoening@ieee.org with your Github user name and we'll grant you access and help you get involved.     
 
 ## Recent Progress
-1. The iPDS Testbed has been updated at github.com/I-AM-project and is ready for demo or piloting. 
+1. The iPDS Testbed has been updated at github.com/I-AM-project and is ready for demo or piloting. It will be the core of a My Data Global tech demo (mid-Nov).  
 2. MyOntology:
    a. MyOntology is an open source project under IEEE at https://opensource.ieee.org/myontology-group/myontology-project  It will soon have a PURL server to enable developers to link to permanent terms in the ontology. 
    b. MyOntology needs piloting and feedback for iPDS to gain many piloters, so focus is on outreach for MyOntology.
