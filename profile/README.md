@@ -3,9 +3,9 @@
 
 | Goals | Objective | Objective | Objective |   |
 | ----------------------------- | -------------| ----------|  ----------| ----------|
-|Individuals collect, use, and share integrated data and credentials |Enhance Wallet/iPDS [Testbed](https://iamtestingbed.com/).  [  Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)|Seek engagement from other Open Source developers | Seek and initiate pilots |
-|Organizations share their unique data by mapping it to a standard ontology|Collaborate with IEEE [MyOntology](https://opensource.ieee.org/myontology-group) Project. Help them set up PURL server. |Seek vendors to help refine, extend, and pilot standard ontologies. |
-|Organizations achieve goals of Zero Trust |Orgs set up Didymium or other networks, assess risk, seek approvals, and pilot.  [Repo](https://github.com/I-AM-project/bbu-gf) | 
+|Individuals collect, use, and share integrated data and credentials |Enhance Wallet/iPDS [Testbed](https://iamtestingbed.com/) and [Recorded-Demo](https://miro.com/app/board/uXjVPRouz60=/?moveToWidget=3458764536211343462&cot=14).  [Tasks](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/Aries-Personal-Data-Store)|Seek contributors. Align with related organizations | Expand current pilot |
+|Organizations provide disparate data to individuals by mapping it to a standard ontology|Collaborate with IEEE [MyOntology](https://opensource.ieee.org/myontology-group) Project. Help them set up PURL server. |Seek vendors to help refine, extend, and pilot standard ontologies. |
+|Organizations achieve goals of Zero Trust |Pilot orgs set up Didymium or other networks, assesses risk, gain approvals, and pilot.  [Repo](https://github.com/I-AM-project/bbu-gf) | Demo how identity/iPDS Wallet helps organizations acheive Zero Trust |
 
    
 
