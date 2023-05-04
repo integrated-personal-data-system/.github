@@ -1,5 +1,7 @@
+# Integreate Personal Data System (iPDS) Project 
+### (Previously called IAM Project)
 ### This is a Linux Foundation Project. 
-# Goals and Objectives (Find your passion, join, help!)
+## Goals and Objectives (Find your passion, join, help!)
 
 | Goals | Objective | Objective | Objective |   |
 | ----------------------------- | -------------| ----------|  ----------| ----------|
