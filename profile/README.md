@@ -4,7 +4,7 @@
 
 | Goals | Objective | Objective | Objective |   |
 | ----------------------------- | -------------| ----------|  ----------| ----------|
-|Individuals collect, use, and share integrated data and credentials |Enhance Wallet/iPDS Testbed (currently off-line) and [Recorded-Demo](https://drive.google.com/file/d/1Nj4byZTrHKp8ENU6BmRcNlhOXcFvFWFu/view).  |Seek contributors. Align with related organizations | Expand current pilot |
+|Individuals collect, use, and share integrated data and credentials |Enhance Wallet/iPDS Testbed (currently off-line) and [Recorded-Demo]([https://drive.google.com/file/d/1Nj4byZTrHKp8ENU6BmRcNlhOXcFvFWFu/view](https://drive.google.com/file/d/1c95ESkIL5N5ASNZGza5TOg3okkfHBnUB/view)).  |Seek contributors. Align with related organizations | Expand current pilot |
 |Organizations provide disparate data to individuals by mapping it to a standard ontology|Collaborate with IEEE Person Ontology, previously called  [MyOntology](https://opensource.ieee.org/myontology-group). Help them set up PURL server. |Seek vendors to help refine, extend, and pilot standard ontologies. |
   
 
