@@ -4,8 +4,8 @@
 
 | Goals | Objective | Objective | Objective |   |
 | ----------------------------- | -------------| ----------|  ----------| ----------|
-|Individuals collect, use, and share integrated data and credentials |Enhance Wallet/iPDS Testbed, currently off-line, but see [Recorded-Demo](https://drive.google.com/file/d/1c95ESkIL5N5ASNZGza5TOg3okkfHBnUB/view)).  |Seek contributors. Align with related organizations | Expand current pilot |
-|Organizations provide disparate data to individuals by mapping it to a standard ontology|Collaborate with [IEEE P3195.1.2 Person Ontology Project](https://opensource.ieee.org/person-ontology-group/person-ontology-project) Set up IEEE PURL server. |Seek vendors to help refine, extend, and pilot standard ontologies. |
+|Individuals collect, integrate, use, and share integrated data and credentials |Enhance iPDS Testbed, currently off-line, but see [Recorded-Demo](https://drive.google.com/file/d/1c95ESkIL5N5ASNZGza5TOg3okkfHBnUB/view)).  |Become component of Open Wallet Foundation |Seek contributors to write code, test, demo. Seek initial user group |
+|Organizations provide disparate data to individuals by mapping it to a standard ontology and transforming instance data|Collaborate with [IEEE P3195.1.2 Person Ontology Project](https://opensource.ieee.org/person-ontology-group/person-ontology-project) Set up IEEE PURL server. |Seek vendors to map and transform their data. |
   
 
 
